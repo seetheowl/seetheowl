@@ -1,17 +1,17 @@
 # Hi, I'm seetheowl 👋
 
 > 自动化专业大四学生
-> 正在寻找 **Qt/C++ 开发** 或 **Linux 应用开发** 方向的 [实习 / 校招] 机会
+> 正在寻找 **Qt/C++ 开发** 或 **Linux 应用开发** 方向的 实习 / 校招 机会
 
 ---
 
 ## 🎓 关于我
 
-- 🏫 就读于 **[学校名称]**，**自动化**专业，预计 **20XX 年 X 月** 毕业
+- 🏫 就读: **自动化**专业，预计 **2027 年 6 月** 毕业
 - 💻 主要方向：**C++ / Qt 上位机开发**，熟悉 Linux 开发环境
 - 🌱 目前在学：**Qt 多线程与网络编程、Linux 系统编程**
-- 🎯 求职目标：**Qt 开发工程师 / Linux C++ 开发**，期望城市 **[城市]**
-- 📫 联系我：**[邮箱]** ｜ [个人博客](链接) ｜ [GitHub](链接)
+- 🎯 求职目标：**Qt 开发工程师 / Linux C++ 开发**，期望城市 **青岛/烟台**
+- 📫 联系我：**seetheowl@outlook.com** ｜ [个人博客](链接) 
 
 ---
 
@@ -28,8 +28,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-
-> 只写自己真正用过、能讲清楚的。没用过 QML 就不要写。
 
 ---
 
